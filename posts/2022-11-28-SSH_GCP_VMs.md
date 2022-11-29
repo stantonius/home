@@ -7,7 +7,6 @@ date: '2022-11-28'
 categories:
 - sql
 - GCP
-draft: false
 comments:
   giscus:
     repo: stantonius/home

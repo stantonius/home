@@ -1,6 +1,4 @@
 ---
-aliases:
-- /computer_science/linux/2022/07/21/Linux_Basics
 categories:
 - linux
 - computer_science

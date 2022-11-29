@@ -1,6 +1,4 @@
 ---
-aliases:
-- /computer_science/ssh/ssl/2022/07/22/Net_security
 categories:
 - ssh
 - ssl

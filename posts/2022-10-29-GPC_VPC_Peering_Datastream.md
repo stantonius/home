@@ -1,6 +1,4 @@
 ---
-aliases:
-- /GPC_VPC_Peering_Datastream
 categories:
 - GCP
 - networking

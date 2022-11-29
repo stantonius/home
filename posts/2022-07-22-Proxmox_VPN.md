@@ -1,6 +1,4 @@
 ---
-aliases:
-- /home_lab/proxmox/smart_home/tailscale/2022/07/22/Proxmox_VPN
 categories:
 - tailscale
 - proxmox

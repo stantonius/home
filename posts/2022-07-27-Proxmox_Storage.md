@@ -1,6 +1,4 @@
 ---
-aliases:
-- /home_lab/proxmox/smart_home/2022/07/27/Proxmox_Storage
 categories:
 - proxmox
 - home_lab

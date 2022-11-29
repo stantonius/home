@@ -1,6 +1,4 @@
 ---
-aliases:
-- /GPC_VPC_Tailscale
 categories:
 - GCP
 - networking

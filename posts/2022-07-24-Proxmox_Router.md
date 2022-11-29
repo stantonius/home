@@ -1,6 +1,4 @@
 ---
-aliases:
-- /home_lab/proxmox/smart_home/2022/07/24/Proxmox_Router
 categories:
 - proxmox
 - smart_home
