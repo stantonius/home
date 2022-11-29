@@ -1,6 +1,4 @@
 ---
-aliases:
-- /Flutter/IoT/Microcomputing/2021/12/22/proximity_leds_main
 categories:
 - IoT
 - Microcomputing

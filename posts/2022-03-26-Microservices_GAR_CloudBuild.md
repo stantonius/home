@@ -1,6 +1,4 @@
 ---
-aliases:
-- /Artifact Registry/Cloud Build/GCP/Microservices/2022/03/26/Microservices_GAR_CloudBuild
 categories:
 - GCP
 - Cloud Build

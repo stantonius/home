@@ -1,37 +1,15 @@
-<!-- ---
-aliases:
-- /sql_bigquery
-title: "How to SQL in BigQuery"
-description: "An attempt to simplify BigQuery SQL queries to the bare essentials"
-layout: post
-toc: true
-hide: false
-date: '2022-11-07'
-search_exclude: false
-categories:
-- sql
-- GCP
-metadata_key1: metadata_value1
-metadata_key2: metadata_value2
---- -->
-
 ---
-aliases:
-- /sql_bigquery
 title: "How to SQL in BigQuery"
 description: "An attempt to simplify BigQuery SQL queries to the bare essentials"
-layout: post
 toc: true
-hide: false
+draft: false
 date: '2022-11-07'
-search_exclude: false
 categories:
 - sql
 - GCP
 comments:
-  hypothesis:
-    theme: clean
-
+  giscus:
+    repo: stantonius/home
 ---
 
 

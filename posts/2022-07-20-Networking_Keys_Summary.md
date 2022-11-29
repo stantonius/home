@@ -1,6 +1,4 @@
 ---
-aliases:
-- /computer_science/networking/2022/07/20/Networking_Keys_Summary
 categories:
 - networking
 - computer_science

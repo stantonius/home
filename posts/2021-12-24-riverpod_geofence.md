@@ -1,6 +1,4 @@
 ---
-aliases:
-- /Flutter/Riverpod/2021/12/24/riverpod_geofence
 categories:
 - Flutter
 - Riverpod
